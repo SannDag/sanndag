@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Santiago.</h1>
 <h3 align="center">A passionate software developer from Argentina specialized in back-end with Java.</h3>
 
-<br>
-
-
-
-- 📫 How to reach me **santidaglio@gmail.com**
+<hr>
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://dev.to/sanndag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/sanndag" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/dagliosantiago/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dagliosantiago/" height="30" width="40" /></a>
+📫[Contact me with an email](mailto:santidaglio@gmail.com)
+
+<br>
+<h3 align="left">Visit my Linkedin profile:</h3>
+
+<p align="center"><a href="https://www.linkedin.com/in/dagliosantiago/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dagliosantiago/" height="30" width="40" /></a>
 </p>
 
 <br>
